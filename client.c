@@ -1,5 +1,5 @@
 /*
-    Simple udp client
+    TFTP client
 */
 #include <stdio.h> //printf
 #include <string.h> //memset
